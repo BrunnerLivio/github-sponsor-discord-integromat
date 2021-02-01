@@ -15,6 +15,7 @@
 
 1. Register on [Integromat](https://www.integromat.com/) (it's free!)
 2. Once you're logged into your Dashboard, click on **Scenarios**
+3. Click on **Create a new scenario** (top left)
 
 ![Create new Scenario](screenshots/create-new-scenario.png)
 
